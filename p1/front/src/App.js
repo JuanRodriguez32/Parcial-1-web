@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import PieChart from './component/PieChart.js';
+import SandBox from './component/SandBox.js';
 
 class App extends Component {
 
